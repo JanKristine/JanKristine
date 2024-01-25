@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I amm Jan Kristine Mosong</h1>
-<h3 align="center">A graduate from the University of the Philippines Visayas with a Bachelor of Science in Computer Science. I am passionate about staying informed of the latest technological advancements and am committed to a continuous learning mindset. I am excited about the prospect of contributing my knowledge and learning from experienced professionals in a collaborative and innovative environment. My adaptable nature, coupled with a strong drive to acquire new skills, positions me as a dedicated learner ready to make a meaningful impact in the world of computer science.</h3>
+<h1 align="center">Hi 👋, I am Jan Kristine Mosong</h1>
+<h3 align="center">A graduate from the University of the Philippines Visayas with a degree in Bachelor of Science in Computer Science. I am someone who is passionate about staying informed of the latest technological advancements and is committed to a continuous learning mindset. I am excited about the prospect of contributing my knowledge and learning from experienced professionals in a collaborative and innovative environment. My adaptable nature, coupled with a strong drive to acquire new skills, positions me as a dedicated learner ready to make a meaningful impact in the world of computer science.</h3>
 
 - 📫 How to reach me **jkamosong@gmail.com**
 
